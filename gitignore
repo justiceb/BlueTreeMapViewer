@@ -1,0 +1,11 @@
+**/builds/
+**/build/
+*.bldcache
+*.aliases
+*.lvlps
+*.md5
+*.db
+*.exe 
+*.nipkg
+*.ipk
+
